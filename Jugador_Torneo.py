@@ -11,7 +11,7 @@ class Encuentro:
         self.torneo = torneo
         self.limite = limite
 
-# Ejemplo de uso
+# Ejemplo
 jugador1 = Jugador("Carlos")
 torneo1 = Torneo(jugador1)
 encuentro1 = Encuentro(torneo1, 10)
