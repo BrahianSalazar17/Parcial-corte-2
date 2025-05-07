@@ -14,7 +14,7 @@ def dividir_camel_case(cadena):
 
     return palabras
 
-# Solicitar la cadena al usuario
+# Solicitud al usuario
 cadena = input("Ingrese una cadena en CamelCase: ")
 
 # Obtener palabras y mostrarlas
